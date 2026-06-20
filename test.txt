@@ -1,0 +1,1 @@
+My ThinkPad development environment is working.
